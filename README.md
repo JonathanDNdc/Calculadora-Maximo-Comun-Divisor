@@ -17,7 +17,7 @@
  - MCD_TB
  
 ## Diseño
-![fsm](https://raw.githubusercontent.com/JonathanDNdc/Calculadora-Maximo-Comun-Divisor/master/fsm.png)
+<img src="https://raw.githubusercontent.com/JonathanDNdc/Calculadora-Maximo-Comun-Divisor/master/fsm.png" width="480">
 
 ## Simulación
 ![test](https://raw.githubusercontent.com/JonathanDNdc/Calculadora-Maximo-Comun-Divisor/master/test.png)
