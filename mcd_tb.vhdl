@@ -62,7 +62,7 @@ begin
         GO_i <= '1', '0' after 30 ns;
         wait for 200 ns;
 
-        X_i  <= "0100";
+        X_i  <= "1100";
         Y_i  <= "1000";
         rst  <= '1';
         GO_i <= '0';
